@@ -8,7 +8,9 @@ Criar uma rede doméstica funcional que inclua:
 * PC,Laptop e Celular (ip dinâmico)  e Impressora (ip estático)
 * Um roteador com Wi-Fi seguro (WPA2).
 # Topologia da Rede
-![nome-da-imagem](Captura de tela 2025-04-29 170730.png)
+### Diagrama da Topologia
+
+![Diagrama da Rede]()
 
 
 
