@@ -10,7 +10,7 @@ Criar uma rede doméstica funcional que inclua:
 # Topologia da Rede
 ### Diagrama da Topologia
 
-![Diagrama da Rede]()
+![Diagrama da Rede](https://github.com/Dudasantluiz/Rede-domestica-segura/blob/main/Captura%20de%20tela%202025-04-29%20170730.png)
 
 
 
